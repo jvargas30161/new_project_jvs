@@ -1,0 +1,25 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Proyecto Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvargas30161/new_project_jvs.git"
+  },
+  "keywords": [
+    "Nicolas120212"
+  ],
+  "author": "Jorge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvargas30161/new_project_jvs/issues"
+  },
+  "homepage": "https://github.com/jvargas30161/new_project_jvs#readme",
+  "devDependencies": {
+    "cypress": "^12.17.1"
+  }
+}
