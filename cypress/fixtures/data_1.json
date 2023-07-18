@@ -3,7 +3,9 @@
 		"ciudad_1":       "madrid",
         "ciudad_2":        "barcelona",
 		"ciudad_3":        "islas canarias",
-        "ciudad_4" :        "tenerife"
+        "ciudad_4" :        "tenerife",
+		"nombre":			"jorge",
+		"apellidos":		"vargas"
 
 	}
 
